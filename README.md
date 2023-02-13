@@ -29,7 +29,6 @@ Após o script os dados ficaram limpos, tratados e organizados. Foi possível re
 Instale os pacotes abaixo para rodar o notebook:
 
 ```bash
-  !pip install plotly
   !pip install datetime
   !pip install warnings
 ```
