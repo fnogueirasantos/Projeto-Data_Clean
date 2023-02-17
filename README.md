@@ -3,7 +3,7 @@
 
 Problema de negócio: Hoje a Farmacia XX recebe seus dados fiscais e contábeis da contabilidade via planilha extraída do sistema usado para registros de lançamentos. 
 
-Fomos acionados pelo gerente de contraladoria da Farmacia para criar um processo de automatização destes dados e entregar um relatório análitico do faturamento fiscal, dos impostos (ISS e Cofins) e a construção de uma DRE(Demonstração do resultado do exercício) com os dados contábeis.
+Fomos acionados pelo gerente de contraladoria da Farmacia para criar um processo de automatização destes dados e entregar um relatório análitico do faturamento fiscal, dos impostos (ISS e Cofins) e a construção de uma DRE (Demonstração do resultado do exercício) com os dados contábeis.
 
 ## Insigths e Conclusões
 
