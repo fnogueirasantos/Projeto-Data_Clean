@@ -22,14 +22,4 @@ Após o script os dados ficaram limpos, tratados e organizados. Foi possível re
 
 
 
-
-
-## Instalação
-
-Instale os pacotes abaixo para rodar o notebook:
-
-```bash
-  !pip install datetime
-  !pip install warnings
-```
     
